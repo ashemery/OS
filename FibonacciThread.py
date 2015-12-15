@@ -13,7 +13,6 @@ def fib_server(address):
     while True:
         client, addr = sock.accept()
         print("[+] Connection started with: ", addr)
-        #Thread(target=fib_handler, args=(client,), daemon=True).start()
         Thread(target=fib_handler_yield, args=(client,), daemon=True).start()
 
 #Calculating fibonacci
