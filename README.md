@@ -11,7 +11,7 @@ The list below is based on my readings and personal opinions only.
 - Operating System Engineering, Graduate / MIT. [URL](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/)
 - Operating Systems and System Programming, by UC Berkeley Computer Science. [URL](https://www.youtube.com/playlist?list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws)
 - OPS Class, by Geoffrey Challen. [URL1](https://ops-class.org/) and [URL2](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_z8pkiuvHo7Vz-eQEKsk-I)
-- Operating Systems for Ghassan Shobaki Computer Science Lectures [^1]. [URL](https://www.youtube.com/playlist?list=PL6KMWPQP_DM-7tMNjUa7X2zGrc8jipPeI)
+- Operating Systems for Ghassan Shobaki Computer Science Lectures. [URL](https://www.youtube.com/playlist?list=PL6KMWPQP_DM-7tMNjUa7X2zGrc8jipPeI)
 -- A previous colleage of mine and that's why I added this course and because I know he is an amazing professor!
 
 ---
