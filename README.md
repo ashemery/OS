@@ -1,5 +1,5 @@
 # Operating Systems
-Python code illustrating different operating system terminologies, techniques, and solutions.
+Everything that I used to learn Operating Systems. It also includes the Python code that I used to use for illustrating different operating system terminologies, techniques, and solutions.
 
 ### Good OS Learning Resources
 The list below is based on my readings and personal opinions only.
