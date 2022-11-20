@@ -25,6 +25,8 @@ The list below is based on my readings and personal opinions only.
 - Windows Kernel Programming, by Pavel Yosifovich. [URL](https://www.amazon.com/Windows-Kernel-Programming-Pavel-Yosifovich/dp/1977593372/)
 - Windows Internals: System architecture, processes, threads, memory management, and more, Part 1 (Developer Reference), by Pavel Yosifovich, Mark Russinovich, David Solomon, and Alex Ionescu. [URL](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189/)
 - Windows Internals, Part 2 (Developer Reference), by Andrea Allievi, Mark Russinovich, Alex Ionescu, and David Solomon. [URL](https://www.amazon.com/Windows-Internals-Part-2-7th/dp/0135462401/)
+- Operating Systems: Three Easy Pieces, by Remzi Arpaci-Dusseau and Andrea Arpaci-Dusseau. [URL](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 
 ---
 
